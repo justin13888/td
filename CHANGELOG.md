@@ -2,6 +2,12 @@
 
 All notable changes to td are documented in this file.
 
+## [v0.42.0] - 2026-03-09
+
+### Bug Fixes
+- Fix closed_at timestamp to use current time on approve/close (#55)
+- Fix mobile navbar sidebar hidden behind secondary panel (#54)
+
 ## [v0.41.0] - 2026-03-01
 
 ### Bug Fixes
